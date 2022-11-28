@@ -15,10 +15,12 @@ sidebar_position: 1
 ここまででdocsの作成が完了
 
 4. git add .
+※.docusaurus build node_modulesを除いたもの
 
 5. git commit -m "{コミットメッセージを書く}"でコミットを行う。
 
 6. git push origin mainでmainブランチにpushを行う。
+
 
 
 writer: kazuki
