@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[129],{9274:e=>{e.exports=JSON.parse('{"allTagsPath":"/Biboroku/blog/tags","slug":"/Biboroku/blog/tags/hello","name":"hello","count":2,"permalink":"/Biboroku/blog/tags/hello"}')}}]);
