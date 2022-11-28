@@ -2,34 +2,23 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+## docsの書き方
 
-Let's discover **Docusaurus in less than 5 minutes**.
+### 以下の手順でマニュアルを作成する
 
-## Getting Started
+1. git pull origin mainを行う
 
-Get started by **creating a new site**.
+2. docsフォルダー直下にてマニュアルを作成する
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+3. GIT_USER={githubユーザID} USE_SSH=true npm run deployを実行しデプロイを行う。
+=================================================
+ここまででdocsの作成が完了
 
-## Generate a new site
+4. git add .
 
-Generate a new Docusaurus site using the **classic template**:
+5. git commit -m "{コミットメッセージを書く}"でコミットを行う。
 
-```shell
-npx @docusaurus/init@latest init my-website classic
-```
+6. git push origin mainでmainブランチにpushを行う。
 
-## Start your site
 
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
+writer: kazuki
