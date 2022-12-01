@@ -24,6 +24,7 @@ for _, r in gdf.iterrows():
     m.add_child(line)
 m
 ```
+
 #### 前半パート
 ```python
 import folium
