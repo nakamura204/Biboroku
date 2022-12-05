@@ -21,6 +21,11 @@ sidebar_position: 1
 
 6. git push origin mainでmainブランチにpushを行う。
 
+### もしくはターミナル上でシェルスクリプトを実行する
+./deploy.sh {githubユーザーID} {コミットメッセージ}
+*引数を正しく入力しないと実行されない
+*途中でエラーが出た場合はエラーで止まった場所から手動で実行すること
+
 
 参考記事:
 [React製の静的サイトジェネレータDocusaurus v2を、GitHub Pagesにデプロイする](https://qiita.com/y_catch/items/46b7eb7d618d95fbc9c3)
