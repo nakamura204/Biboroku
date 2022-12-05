@@ -31,4 +31,4 @@ sidebar_position: 1
 参考記事:
 [React製の静的サイトジェネレータDocusaurus v2を、GitHub Pagesにデプロイする](https://qiita.com/y_catch/items/46b7eb7d618d95fbc9c3)
 
-writer: kazuki
+writer: kazuki, nakamura
