@@ -13,4 +13,6 @@ keywords:
   - sql
 ---
 
-## EXPLAIN
+## EXPLAIN ANALYZE
+
+[チューニング ～ SQLチューニングを実施する ～](https://www.fujitsu.com/jp/products/software/resources/feature-stories/postgres/article-index/implement-sqltuning/)
