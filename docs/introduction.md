@@ -27,7 +27,6 @@ sidebar_position: 1
 *引数には**絶対に空白**を入れないこと  
 *途中でエラーが出た場合はエラーで止まった場所から手動で実行すること  
 
-
 参考記事:
 [React製の静的サイトジェネレータDocusaurus v2を、GitHub Pagesにデプロイする](https://qiita.com/y_catch/items/46b7eb7d618d95fbc9c3)
 
