@@ -1,17 +1,17 @@
 ---
 id: folium
 slug: /folium
-title: foliumの使い方
-description: foliumの使い方について
+title: folium.vector_layersの使い方
+description: folium.vector_layersの使い方について
 sidebar_position: 1
-sidebar_label: folium
+sidebar_label: vector_layersの使い方
 tags:
   - gis
 keywords:
   - gis
 ---
 
-## Foliumの使い方
+## folium.vector_layersの使い方
 ### カテゴリーごとにラインを色分け
 #### 完成コード
 ```python
