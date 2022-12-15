@@ -1,10 +1,10 @@
 ---
 id: difference_of_learning_method
 slug: /difference_of_learning_method
-title: 学習手法の違い
-description: この記事では学習手法とその代表的なアルゴリズムを紹介します。
+title: 交差検証
+description: この記事では交差検証についてとその種類を紹介します。
 sidebar_position: 2
-sidebar_label: 学習手法まとめ
+sidebar_label: 交差検証
 tags:
   - machine learning
 keywords:
@@ -18,9 +18,9 @@ keywords:
 import 
 ~~~
 - ## stratified k-fold交差検証
-
+    
 - ## ホールドアウト交差検証
-
+    
 - ## leave-one-out 交差検証
 
 - ## group k-fold 交差検証
