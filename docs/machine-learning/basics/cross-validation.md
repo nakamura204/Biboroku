@@ -1,6 +1,6 @@
 ---
-id: difference_of_learning_method
-slug: /difference_of_learning_method
+id: cross_validation
+slug: /cross_validation
 title: 交差検証
 description: この記事では交差検証についてとその種類を紹介します。
 sidebar_position: 2
