@@ -21,13 +21,31 @@ sidebar_label: MLP
 ## 活性化関数
 
 - シグモイド関数
+
 $$
-y = 1 / (1 + exp(-x))
+f(x) = \frac{1}{1+e^{-x}}
 $$
-![reguralization_img001](/img/20211212155552.gif)
+
+![sigmoid](/img/sigmoid.gif)
+
 - 双曲線関数
+$$
+f(x) = \frac{e^x - e^{-x}}{e^x+e^{-x}} 
+$$
+
+![tanh](/img/hyperbolic.gif)
 
 - ReLU関数
+
+$$
+f(x)=
+\begin{cases}
+0, \leq0\\
+x, >0
+\end{cases}
+$$
+
+![ReLU](/img/ReLU.gif)
 
 ## 回帰MLP
 
@@ -35,6 +53,9 @@ $$
 
 tags:
   - machine learning
+  - Deep learning
+
 keywords:
   - machine learning
+  - Deep learning
 ---
