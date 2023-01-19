@@ -20,30 +20,22 @@ sidebar_label: MLP
 
 ## 活性化関数
 
-- シグモイド関数
-
-$$
-f(x) = \frac{1}{1+e^{-x}}
-$$
+- シグモイド関数:
+$f(x) = \frac{1}{1+e^{-x}}$
 
 ![sigmoid](/img/sigmoid.gif)
 
-- 双曲線関数
-$$
-f(x) = \frac{e^x - e^{-x}}{e^x+e^{-x}} 
-$$
+- 双曲線関数:
+$f(x) = \frac{e^x - e^{-x}}{e^x+e^{-x}}$
 
 ![tanh](/img/hyperbolic.gif)
 
-- ReLU関数
-
-$$
-f(x)=
+- ReLU関数:
+$f(x)=
 \begin{cases}
 0, \leq0\\
 x, >0
-\end{cases}
-$$
+\end{cases}$
 
 ![ReLU](/img/ReLU.gif)
 
